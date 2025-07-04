@@ -13,3 +13,11 @@ The idea was to replicate this paper:
 
 But with our own data. The pipeline works like this:
 
+![alt text](https://github.com/Malaevleo/Aroma_EEG/blob/main/PIPELINEEEG.png "The pipeline")
+
+We had 20 respondents and each were provided 8 different odors multiple times with water serving as the control (additional 2 odors basically). 
+
+# TMS-EEG
+
+TMS-EEG file is from the separate project but it is here to show that EEGNET is overall well-suited for the EEG data analysis when the stimuli is really pronounced. When we have to deal with subtle signals it does not work as intended sadly. TMS notebook was also done on our own data. I actually was the respondent in that experiment, thus I analyzed my own brain. Surreal experience to say the least
+
